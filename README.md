@@ -20,6 +20,10 @@ lista = []
 
 if m>0 and n>0:
     o=n+m
+    for e in range
+
+if m>0 and n>0:
+    o=n+m
     for e in range(o):
         m=input().split(",")
         lista.append(m)    
