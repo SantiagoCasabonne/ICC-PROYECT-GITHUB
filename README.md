@@ -25,6 +25,7 @@ if m>0 and n>0:
         lista.append(m)    
     q=lista[:len(lista)-n]
     buscamos=lista[len(lista)-n:]
+    ;
 
 
 
