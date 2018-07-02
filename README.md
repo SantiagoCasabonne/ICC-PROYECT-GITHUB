@@ -19,19 +19,12 @@ n=int(fr[1])
 lista = []
 
 if m>0 and n>0:
-
     o=n+m
-    
     for e in range(o):
-    
         m=input().split(",")
-        
-        lista.append(m)
-        
+        lista.append(m)    
     q=lista[:len(lista)-n]
-    
     buscamos=lista[len(lista)-n:]
-    
     for e in buscamos:
 
 
