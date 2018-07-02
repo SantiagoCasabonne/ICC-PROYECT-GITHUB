@@ -25,13 +25,7 @@ if m>0 and n>0:
         lista.append(m)    
     q=lista[:len(lista)-n]
     buscamos=lista[len(lista)-n:]
-    for e in buscamos:
-        if e in q:
-            print("True")
-        else:
-            print("False")
-else:
-    print("Invalid input")
+
 
 
 
